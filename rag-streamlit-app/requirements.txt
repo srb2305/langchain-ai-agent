@@ -1,0 +1,14 @@
+streamlit
+beautifulsoup4
+requests
+
+langchain
+openai
+chromadb
+python-dotenv
+
+
+pip install -U langchain langchain-community langchain-text-splitters
+
+# FOR RUN APP
+streamlit run app.py
